@@ -1,0 +1,19 @@
+{
+  "name": "casa-do-codigo",
+  "version": "1.0.0",
+  "description": "sistema da área adminitrativa da casa do código",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hloplopes/Casa-do-Codigo.git"
+  },
+  "author": "Henrique Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hloplopes/Casa-do-Codigo/issues"
+  },
+  "homepage": "https://github.com/hloplopes/Casa-do-Codigo#readme"
+}
