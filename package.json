@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hloplopes/Casa-do-Codigo/issues"
   },
-  "homepage": "https://github.com/hloplopes/Casa-do-Codigo#readme"
+  "homepage": "https://github.com/hloplopes/Casa-do-Codigo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
