@@ -1,0 +1,20 @@
+NODEMON: derruba e sobe o servidor de forma automatica, ao salvar um arquivo .js
+
+- npm install -g : Instala global na maquina
+nodemon nomedoarquivo.js
+
+- npm install --save-dev : Somente no projeto, acessa pela pasta bin
+./node_modules/.bin/nodemon cdc.js
+
+------------------------------------------------------------------------------------
+
+BABEL: converte seu codigo ECS6 para versoes antigas do javascript
+
+babeljs.io -> Try out
+
+------------------------------------------------------------------------------------
+
+EJS (Embedded JavaScript templates)
+
+O razor do javascript, utilizado pra rodar codigo js no meio do html
+Todos os arquivos devem ter a extensao .ejs, dentro de uma pasta views
