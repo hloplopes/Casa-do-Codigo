@@ -18,3 +18,11 @@ EJS (Embedded JavaScript templates)
 
 O razor do javascript, utilizado pra rodar codigo js no meio do html
 Todos os arquivos devem ter a extensao .ejs, dentro de uma pasta views
+
+------------------------------------------------------------------------------------
+
+latentflip
+
+http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
+
+livro: https://www.amazon.com.br/Construindo-Aplica%C3%A7%C3%B5es-NodeJS-William-Moraes/dp/8575224565?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=1e6b5e9f-628e-43a3-b458-45f4b9ec1522
