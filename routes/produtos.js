@@ -1,15 +1,18 @@
+// Importacao de Libs
+const ProdutosDAO = require('../DAO/ProdutosDAO');
+const connectionFactory = require('../infra/connectionFactory')
+
 module.exports = function(app) {
         app.get('/produtos', function(req, res) {
 
-            const connection = require('../infra/connectionFactory')();
+            const connection = connectionFactory();
+            const produtosDAO = new ProdutosDAO(connection);
 
-            connection.query('SELECT * FROM Produtos', function(err, result) {
+            produtosDAO.lista(function(err, result) {
                 res.render('produtos/lista', {
                     produtos : result
                 });
             });
-
-            connection.end();
 
         });
 }
