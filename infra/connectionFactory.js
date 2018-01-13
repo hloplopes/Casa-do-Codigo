@@ -9,4 +9,4 @@ function connectionFactory() {
     });
 }
 
-module.exports = connectionFactory;
+module.exports = () => connectionFactory;

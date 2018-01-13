@@ -27,6 +27,9 @@
     "mysql": "^2.15.0"
   },
   "devDependencies": {
-    "nodemon": "^1.14.10"
+    "database-cleaner": "^1.2.0",
+    "mocha": "^4.1.0",
+    "nodemon": "^1.14.10",
+    "supertest": "^3.0.0"
   }
 }

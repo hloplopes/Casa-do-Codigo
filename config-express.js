@@ -15,6 +15,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(expressValidator());
 
 load('routes')
+.then('infra')
+.then('DAO')
     .into(app);
 
 // // Setando a rota de produtos
